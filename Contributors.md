@@ -1,4 +1,4 @@
--Prerna
+- Prerna
 - Herit (herit007)
 - [Nayagam](https://pmnayagam.github.io/portfolio/)
 - [Suryansh] (https://github.com/snaxy318)
